@@ -3,7 +3,8 @@
 ## Project Overview
 Sparkify, a fictional music streaming startup, aims to predict user churn using Apache Spark. In this context, "churn" refers to customers leaving the service over a given period. Identifying potential churners is crucial, as acquiring new customers can cost five to six times more than retaining existing ones.
 
-[Go to blog post!]([https://medium.com/@anhchu1291/churn-prediction-for-music-hosting-service-sparkify-5a8d476e5b9b](https://medium.com/@esdraswandji/how-to-save-millions-by-spotting-churning-customers-in-streaming-platforms-bdb4ef7b2179))
+[Go to blog post!](https://medium.com/@anhchu1291/churn-prediction-for-music-hosting-service-sparkify-5a8d476e5b9b](https://medium.com/@esdraswandji/how-to-save-millions-by-spotting-churning-customers-in-streaming-platforms-bdb4ef7b2179))
+
 
 ### User Types and Churn Definition
 - Free plan users: Stream music with ads
